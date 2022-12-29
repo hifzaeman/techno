@@ -1,0 +1,23 @@
+@import "../TechnoKrates/Sass/abstracts/functions";
+@import "../TechnoKrates/Sass/abstracts/mixins";
+@import "../TechnoKrates/Sass/abstracts/variables";
+
+@import "../TechnoKrates/Sass/Base/animation";
+@import "../TechnoKrates/Sass/Base/base";
+@import "../TechnoKrates/Sass/Base/typography";
+@import "../TechnoKrates/Sass/Base/utility";
+
+@import "../TechnoKrates/Sass/Components/about";
+@import "../TechnoKrates/Sass/Components/Quote-1";
+@import "../TechnoKrates/Sass/Components/whatWeDo";
+@import "../TechnoKrates/Sass/Components/whyUs";
+@import "../TechnoKrates/Sass/Components/products";
+@import "../TechnoKrates/Sass/Components/whereWeStand";
+@import "../TechnoKrates/Sass/Components/eco-bricks";
+
+@import "../TechnoKrates/Sass/Layout/footer";
+@import "../TechnoKrates/Sass/Layout/grid";
+@import "../TechnoKrates/Sass/Layout/header";
+@import "../TechnoKrates/Sass/Layout/navigation";
+
+@import "../TechnoKrates/Sass/Pages/home"
